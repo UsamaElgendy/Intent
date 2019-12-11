@@ -1,0 +1,3 @@
+note :
+sometimes when we use implicit intent --> user don't have any app to open the request
+in this case we use Resolve Activity ;
